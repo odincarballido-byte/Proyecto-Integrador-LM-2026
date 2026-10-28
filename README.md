@@ -11,7 +11,7 @@
   3. Organización avanzada del contenido en bloques semánticos con `div` comentados y entidades HTML.
 
 ## Palabra del día
-* [PALABRA_UD3]
+* [contexto]
 
 ## Mapa del sitio
 | Fichero | title | Qué contiene |
